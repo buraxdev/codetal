@@ -7,9 +7,6 @@ Dieses Projekt wurde an der TH Köln als Prototyp für das Praxisprojekt entwick
 ## Inhaltsverzeichnis
 
 - [Installation](#installation)
-- [Verwendung](#verwendung)
-- [Beitragsrichtlinien](#beitragsrichtlinien)
-- [Lizenz](#lizenz)
 
 ## Installation
 Das Projekt kann ohne weiteres auf Android Studio geclont und ausgeführt werden.
