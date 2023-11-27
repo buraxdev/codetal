@@ -2,7 +2,7 @@
 
 Dieses Projekt wurde an der TH Köln als Prototyp für das Praxisprojekt entwickelt.
 
-![Projektlogo]([https://example.com/logo.png](https://github.com/buraxdev/codetal/blob/master/codetalcity.png))
+![Projektlogo]([https://example.com/logo.png](https://github.com/buraxdev/codetal/blob/master/cc1.jpg))
 
 ## Inhaltsverzeichnis
 
