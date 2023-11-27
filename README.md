@@ -20,7 +20,7 @@ $ git clone https://github.com/buraxdev/codetal.git
 $ cd codetal
 $ npm install
 
-## Verwendung
+## verwendung
 Es befindet sich aktuell in Entwicklung, zum probieren, Git bekannte Zeilen ausführen
 
 
